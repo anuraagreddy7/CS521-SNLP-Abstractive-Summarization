@@ -18,10 +18,10 @@ This project implements and compares GRU and LSTM-based sequence-to-sequence mod
 ## 🗂️ Repository Structure
 
 ```
-📁 notebooks/          - GRU & LSTM model development and outputs
+📁 notebooks/          - GRU & LSTM model development
 📁 src/                - Modular Python scripts for model, preprocessing, attention
-📁 outputs/            - ROUGE scores and sample predictions
-📁 data/               - Sample WikiHow input/output examples
+📁 outputs/            - ROUGE scores, loss predictions and outputs
+📁 data/               - WikiHow Dataset
 📄 requirements.txt    - Python dependencies
 📄 README.md           - Project overview and setup instructions
 ```
